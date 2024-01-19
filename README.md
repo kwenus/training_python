@@ -1,2 +1,2 @@
 # training_python
-### and git 
+### and git and obsidian
